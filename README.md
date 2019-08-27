@@ -1,1 +1,2 @@
 # testhuzi
+print("hello python")
